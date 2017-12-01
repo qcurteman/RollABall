@@ -18,7 +18,7 @@ Unity Ball Game (Personal Project)
 - I struggled designing the functionality of the above head camera. Originally, the camera was in a fixed position, but I wanted to have it follow the player as the ball rolled.
   - Solution: The main camera needed to be a child of the player. That way wherever the user moved, the camera followed at an elevated location.
 
-##New Skills Acquired:
+## New Skills Acquired:
 - I discovered the importance of the separation of functionalities in the creation of a game. It is critical to have each script doing exactly what it says to avoid any unwanted and unpredictable behavior.
 - It was exciting learning how an event driven program is built and how it runs. 
 - I learned about the structure of game programming.
